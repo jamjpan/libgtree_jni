@@ -3,7 +3,7 @@
 
 This repository contains the g-tree JNI library for Java located at
 
-     https://github.com/jamjpan/libgtree_jni
+     https://github.com/jamjpan/libgtree_jni_native
 
 packaged as a convenient Maven artifact. It contains the "swigified"
 Java sources (src/main/java), generated using SWIG 3.0.12.
